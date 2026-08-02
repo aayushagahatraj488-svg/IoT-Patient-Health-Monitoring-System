@@ -2,7 +2,6 @@
 ![ESP8266](https://img.shields.io/badge/ESP8266-NodeMCU-blue)
 ![MAX30100](https://img.shields.io/badge/Sensor-MAX30100-red)
 ![OLED](https://img.shields.io/badge/Display-SSD1306-green)
-![License](https://img.shields.io/badge/License-MIT-success)
 # ❤️ IoT-Based Patient Health Monitoring System
 
 An IoT-based patient health monitoring system developed using **NodeMCU (ESP8266)**, **MAX30100 SpO₂/Heart Rate Sensor**, **SSD1306 OLED Display**, and a **Piezo Buzzer**.
