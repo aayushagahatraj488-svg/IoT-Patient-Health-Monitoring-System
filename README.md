@@ -40,3 +40,16 @@ The system measures **Heart Rate (BPM)** and **Blood Oxygen Saturation (SpO₂)*
 | Piezo Buzzer | D5 (GPIO14) |
 | VCC | 3.3V |
 | GND | GND |
+## ⚙️ How It Works
+
+1. Connect the NodeMCU to your computer using a USB cable.
+2. Place your finger on the MAX30100 sensor.
+3. The MAX30100 measures:
+   - ❤️ Heart Rate (BPM)
+   - 🩸 Blood Oxygen Level (SpO₂)
+4. The sensor sends the data to the NodeMCU through the **I²C protocol**.
+5. The NodeMCU processes the received data.
+6. The readings are displayed on the SSD1306 OLED display.
+7. The NodeMCU sends the processed data through **USB Serial**.
+8. The browser dashboard reads the serial data and displays live readings.
+9. The piezo buzzer provides an alert whenever required.
