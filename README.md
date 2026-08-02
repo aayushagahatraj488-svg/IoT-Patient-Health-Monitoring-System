@@ -53,3 +53,12 @@ The system measures **Heart Rate (BPM)** and **Blood Oxygen Saturation (SpO₂)*
 7. The NodeMCU sends the processed data through **USB Serial**.
 8. The browser dashboard reads the serial data and displays live readings.
 9. The piezo buzzer provides an alert whenever required.
+10. ## 📁 Project Structure
+
+```
+IoT-Patient-Health-Monitoring-System
+│
+├── AN_Health_Pulse_Node.ino
+├── README.md
+└── LICENSE
+```
