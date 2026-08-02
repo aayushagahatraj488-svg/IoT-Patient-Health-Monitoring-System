@@ -29,3 +29,14 @@ The system measures **Heart Rate (BPM)** and **Blood Oxygen Saturation (SpO₂)*
 | Breadboard | 1 |
 | Jumper Wires | As Required |
 | USB Cable | 1 |
+## 🔌 Pin Connections
+
+| Component | NodeMCU Pin |
+|-----------|-------------|
+| MAX30100 SDA | D2 (GPIO4) |
+| MAX30100 SCL | D1 (GPIO5) |
+| OLED SDA | D2 (GPIO4) |
+| OLED SCL | D1 (GPIO5) |
+| Piezo Buzzer | D5 (GPIO14) |
+| VCC | 3.3V |
+| GND | GND |
