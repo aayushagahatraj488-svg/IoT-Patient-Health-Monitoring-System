@@ -99,3 +99,10 @@ It is **not a certified medical device** and should **not** be used for clinical
 7. Connect the MAX30100, OLED Display, and Piezo Buzzer according to the pin connections.
 
 8. Open the Serial Monitor (115200 baud) or use the compatible browser dashboard to view the live data.
+9. ## 👩‍💻 Author
+
+**Aayusha Gahatraj**
+
+Bachelor of Computer Application (BCA)
+
+GitHub: https://github.com/aayushagahatraj488-svg
