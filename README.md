@@ -62,3 +62,35 @@ IoT-Patient-Health-Monitoring-System
 ├── README.md
 └── LICENSE
 ```
+## 🚀 Installation
+
+### Prerequisites
+
+- Arduino IDE
+- ESP8266 Board Package
+- MAX30100 Pulse Oximeter Library
+- U8g2 Graphics Library
+
+### Steps
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/aayushagahatraj488-svg/IoT-Patient-Health-Monitoring-System.git
+```
+
+2. Open `AN_Health_Pulse_Node.ino` in Arduino IDE.
+
+3. Select the board:
+
+```
+NodeMCU 1.0 (ESP-12E Module)
+```
+
+4. Select the correct COM port.
+
+5. Click **Upload**.
+
+6. Connect the MAX30100, OLED Display, and Piezo Buzzer according to the pin connections.
+
+7. Open the Serial Monitor (115200 baud) or use the compatible browser dashboard to view the live data.
