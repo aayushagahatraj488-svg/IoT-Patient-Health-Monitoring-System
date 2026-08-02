@@ -18,3 +18,14 @@ The system measures **Heart Rate (BPM)** and **Blood Oxygen Saturation (SpO₂)*
 - 📈 Live Sensor Data Visualization
 - ⚡ NodeMCU (ESP8266) Based
 - 🔌 I²C Communication (MAX30100 & OLED)
+- ## 🛠 Components Used
+
+| Component | Quantity |
+|-----------|---------:|
+| NodeMCU ESP8266 | 1 |
+| MAX30100 SpO₂ & Heart Rate Sensor | 1 |
+| SSD1306 OLED Display | 1 |
+| Piezo Buzzer | 1 |
+| Breadboard | 1 |
+| Jumper Wires | As Required |
+| USB Cable | 1 |
