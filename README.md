@@ -88,9 +88,14 @@ NodeMCU 1.0 (ESP-12E Module)
 ```
 
 4. Select the correct COM port.
+5. ## ⚠️ Disclaimer
 
-5. Click **Upload**.
+This project is developed for **educational purposes** and **personal wellness monitoring** only.
 
-6. Connect the MAX30100, OLED Display, and Piezo Buzzer according to the pin connections.
+It is **not a certified medical device** and should **not** be used for clinical diagnosis or medical decision-making.
 
-7. Open the Serial Monitor (115200 baud) or use the compatible browser dashboard to view the live data.
+6. Click **Upload**.
+
+7. Connect the MAX30100, OLED Display, and Piezo Buzzer according to the pin connections.
+
+8. Open the Serial Monitor (115200 baud) or use the compatible browser dashboard to view the live data.
